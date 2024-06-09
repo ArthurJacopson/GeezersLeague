@@ -1,0 +1,648 @@
+Tick 1-5: The match starts off with both teams evenly matched in midfield, each attempting dribbles and passes towards the opposition penalty area.
+
+Tick 6-10: Team A manages to pass into the opposition penalty area, but Team B's defense holds strong, while Team B attempts a shot but is met with a foul by a defender.
+
+Tick 11-15: Both teams struggle to create clear chances, with neither able to attempt a shot on goal.
+
+Tick 16-20: The deadlock continues as neither team can find a breakthrough, with no valid events in the goal attempts for either side.
+
+Tick 21-25: The game remains tense as both teams exchange possession but struggle to create meaningful opportunities.
+
+Tick 26-30: As the match approaches halftime, Team A and Team B continue to cancel each other out, with no players available for either team to attempt a shot on goal.
+
+Tick 31-35: The second half begins much like the first, with neither team able to penetrate the opposition's defense or create significant goal-scoring chances.
+
+Tick 36-40: With time ticking away, both teams push forward in search of a late winner, but the defenses hold firm, and there are no valid events in the goal attempts.
+
+Tick 41-45: As the game reaches its final moments, the tension rises, but neither team can find the breakthrough they desperately seek.
+
+Tick 46-50: Despite late efforts from both sides, including attempts to shoot and dribble into the penalty area, the match ends in a stalemate with no goals scored.
+
+Final Score: Team A 0 - 0 Team B
+Winner: It's a draw!
+
+Tick 1:
+Score: Team A 0 - 0 Team B
+Team A Midfield: Dribble
+Team B Midfield: Dribble
+
+Tick 2:
+Score: Team A 0 - 0 Team B
+Team A Opposition Side: Pass to Penalty Area
+Team B Opposition Side: Pass to Penalty Area
+
+Tick 3:
+Score: Team A 0 - 0 Team B
+Team A Opposition Penalty Area: Shoot
+Team B Opposition Penalty Area: Foul by Defender
+Player 16 of Team B taking the free kick.
+
+Tick 4:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+Team B Midfield: Dribble
+
+Tick 5:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+Team B Opposition Side: Shoot
+
+Tick 6:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 7:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 8:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 9:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 10:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 11:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 12:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 13:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 14:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 15:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 16:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 17:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 18:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 19:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 20:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 21:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 22:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 23:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 24:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 25:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 26:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 27:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 28:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 29:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 30:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 31:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 32:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 33:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 34:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 35:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 36:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 37:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 38:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 39:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 40:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 41:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 42:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 43:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 44:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 45:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 46:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 47:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 48:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 49:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 50:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 51:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 52:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 53:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 54:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 55:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 56:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 57:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 58:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 59:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 60:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 61:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 62:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 63:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 64:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 65:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 66:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 67:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 68:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 69:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 70:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 71:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 72:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 73:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 74:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 75:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 76:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 77:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 78:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 79:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 80:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 81:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 82:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 83:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 84:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 85:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 86:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 87:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 88:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 89:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Tick 90:
+Score: Team A 0 - 0 Team B
+No players available for Team A in Goal Attempt.
+No valid event in Goal Attempt for Team A
+No players available for Team B in Goal Attempt.
+No valid event in Goal Attempt for Team B
+
+Final Score: Team A 0 - 0 Team B
+The winner is: It's a draw!

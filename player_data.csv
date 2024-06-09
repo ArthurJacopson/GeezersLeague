@@ -1,0 +1,23 @@
+team,number,name,position,shooting,passing,tackling,goalkeeping
+Team A,1,Player 1,Goalkeeper,2,4,3,6
+Team A,2,Player 2,Defender,3,6,8,2
+Team A,3,Player 3,Defender,3,6,7,2
+Team A,4,Player 4,Defender,3,6,7,2
+Team A,5,Player 5,Midfielder,6,8,6,2
+Team A,6,Player 6,Midfielder,6,8,6,2
+Team A,7,Player 7,Midfielder,6,8,6,2
+Team A,8,Player 8,Midfielder,7,9,5,2
+Team A,9,Player 9,Forward,9,6,3,2
+Team A,10,Player 10,Forward,9,6,3,2
+Team A,11,Player 11,Forward,9,6,3,2
+Team B,1,Player 12,Goalkeeper,2,4,3,8
+Team B,2,Player 13,Defender,3,6,8,2
+Team B,3,Player 14,Defender,3,6,7,2
+Team B,4,Player 15,Defender,3,6,7,2
+Team B,5,Player 16,Midfielder,6,8,6,2
+Team B,6,Player 17,Midfielder,6,8,6,2
+Team B,7,Player 18,Midfielder,6,8,6,2
+Team B,8,Player 19,Midfielder,7,9,5,2
+Team B,9,Player 20,Forward,9,6,3,2
+Team B,10,Player 21,Forward,9,6,3,2
+Team B,11,Player 22,Forward,9,6,3,2
