@@ -151,8 +151,8 @@ class Match:
                         print(f"Minute {tick}: {player.player_name} ({player.team}) got the ball in the penalty area.")
 
             # Check if halftime or end of game
-            if tick % 90 == 0:
-                if tick != self.ticks:
+            if tick == 90 or tick == 45:
+                if tick == 45:
                     print("Halftime!")
                     self.kickoff()  # Start the second half
                 else:
